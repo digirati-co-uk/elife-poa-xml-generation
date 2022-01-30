@@ -1,8 +1,9 @@
 GitPython==0.3.2.1
 xlrd==0.9.3
-requests==2.5.3
+requests==2.20
 PyPDF2==1.20
 elifetools==0.1.7
 coverage==3.7.1
 arrow==0.4.4
 func_timeout==4.3.0
+lxml>=4.6.5 # not directly required, pinned by Snyk to avoid a vulnerability
