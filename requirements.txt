@@ -1,4 +1,4 @@
-GitPython==0.3.2.1
+GitPython==3.1.27.1
 xlrd==0.9.3
 requests==2.5.3
 PyPDF2==1.20
